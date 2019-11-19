@@ -1,0 +1,21 @@
+{
+  "name": "mailing_awsnotificationhandlerservice",
+  "version": "1.0.0",
+  "description": "AWSNotificationHandlerService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:mailing-services/awsnotificationhandler.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "AWSNotificationHandler"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC"
+}
+
